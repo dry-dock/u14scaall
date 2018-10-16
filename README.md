@@ -3,7 +3,7 @@ Shippable CI image for Scala on Ubuntu 14.04 with all available services. Availa
 
 
 1. 2.11.12
-2. 2.12.6
+2. 2.12.7
 
 **Services:**
 
